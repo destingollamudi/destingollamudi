@@ -80,7 +80,7 @@
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=destingollamudi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=destingollamudi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 

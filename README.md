@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Bloom** and **Parish Ministry Scheduler**
+- 🔭 I'm currently working on **BLE Fitness App** and **Parish Ministry Scheduler**
 - 🌱 I'm currently learning **System Design**
 
 

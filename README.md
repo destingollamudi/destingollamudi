@@ -68,6 +68,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/destingollamudi">
+    <img src="https://raw.githubusercontent.com/destingollamudi/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/Vincent-Lin-UF">
+    <img src="https://raw.githubusercontent.com/destingollamudi/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  </a>
+</div>
+
+<div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=destingollamudi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
   

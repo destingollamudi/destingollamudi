@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on and **Parish Ministry Scheduler**
+- 🔭 I'm currently working on **Parish Ministry Scheduler**
 - 🌱 I'm currently learning **System Design**
 
 

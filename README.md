@@ -10,10 +10,11 @@
   
 </div>
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I'm currently working on **Parish Ministry Scheduler**
-- 🌱 I'm currently learning **System Design**
+- I'm currently working on **Parish Ministry Scheduler**
+- I'm currently learning **In Depth JS**
+- I am interested in **System Design** and **Data Science** once I master Full Stack fundamentals
 
 
 ## 🌐 Connect with Me
